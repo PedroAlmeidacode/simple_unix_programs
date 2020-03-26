@@ -1,0 +1,3 @@
+/home/pedro/Desktop/SO_programs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pedro/Desktop/SO_programs/cmake-build-debug/CMakeFiles/SO_programs.dir
+/home/pedro/Desktop/SO_programs/cmake-build-debug/CMakeFiles/edit_cache.dir

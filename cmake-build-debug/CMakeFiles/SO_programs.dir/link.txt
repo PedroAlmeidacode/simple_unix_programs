@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/SO_programs.dir/main.c.o CMakeFiles/SO_programs.dir/fork1.c.o CMakeFiles/SO_programs.dir/fork2.c.o CMakeFiles/SO_programs.dir/w2.c.o CMakeFiles/SO_programs.dir/w2_3.c.o CMakeFiles/SO_programs.dir/6process.c.o  -o SO_programs 

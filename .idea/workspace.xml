@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="SO_programs" targetName="SO_programs" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1720871a-306d-4234-8257-c7aee230da4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1YLtS9IFCiznU3qu3yfw8JaJLFx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ObjectiveC" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SO_programs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SO_programs" TARGET_NAME="SO_programs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SO_programs" RUN_TARGET_NAME="SO_programs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1720871a-306d-4234-8257-c7aee230da4d" name="Default Changelist" comment="" />
+      <created>1582733699075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582733699075</updated>
+      <workItem from="1582733700888" duration="222000" />
+      <workItem from="1582736817690" duration="774000" />
+      <workItem from="1582880883853" duration="120000" />
+      <workItem from="1582881212773" duration="4310000" />
+      <workItem from="1583250099598" duration="5074000" />
+      <workItem from="1584203964619" duration="1087000" />
+      <workItem from="1584205116607" duration="1337000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="354" width="606" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584204182641">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="465" y="354" width="606" height="397" key="#com.intellij.fileTypes.FileTypeChooser/0.27.2560.1053/379.1080.1920.1080@0.27.2560.1053" timestamp="1584204182641" />
+    <state x="821" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1584205117084">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583250101191" />
+    <state x="821" y="381" key="com.intellij.ide.util.TipDialog/0.27.2560.1053/379.1080.1920.1080@0.27.2560.1053" timestamp="1584205117084" />
+    <state x="673" y="197" width="563" height="720" key="refactoring.ChangeSignatureDialog" timestamp="1583173162517">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="673" y="197" width="563" height="720" key="refactoring.ChangeSignatureDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583173162517" />
+  </component>
+</project>
